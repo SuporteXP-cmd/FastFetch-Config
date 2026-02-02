@@ -43,4 +43,4 @@ The configuration focuses on:
 ## Alpine Linux
 - sudo apk add fastfetch git
 
--git clone https://github.com/your-username/fastfetch-config.git
+- git clone https://github.com/your-username/fastfetch-config.git
