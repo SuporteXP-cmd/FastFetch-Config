@@ -19,22 +19,28 @@ The configuration focuses on:
 # Installation Example
 
 ## Arch Linux / Manjaro / EndeavourOS
-sudo pacman -S fastfetch git
-git clone https://github.com/your-username/fastfetch-config.git
+- sudo pacman -S fastfetch git
+
+- git clone https://github.com/your-username/fastfetch-config.git
 
 ## Debian / Ubuntu / Linux Mint
-sudo apt update
-sudo apt install fastfetch git -y
-git clone https://github.com/your-username/fastfetch-config.git
+- sudo apt update
+
+- sudo apt install fastfetch git -y
+
+- git clone https://github.com/your-username/fastfetch-config.git
 
 ## Fedora
-sudo dnf install fastfetch git -y
-git clone https://github.com/your-username/fastfetch-config.git
+- sudo dnf install fastfetch git -y
+
+- git clone https://github.com/your-username/fastfetch-config.git
 
 ## openSUSE
-sudo zypper install fastfetch git
-git clone https://github.com/your-username/fastfetch-config.git
+- sudo zypper install fastfetch git
+
+- git clone https://github.com/your-username/fastfetch-config.git
 
 ## Alpine Linux
-sudo apk add fastfetch git
-git clone https://github.com/your-username/fastfetch-config.git
+- sudo apk add fastfetch git
+
+-git clone https://github.com/your-username/fastfetch-config.git
