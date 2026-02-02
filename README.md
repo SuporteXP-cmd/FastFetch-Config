@@ -1,2 +1,27 @@
-# FastFetch-Config
-Just a simple setup of Fastfetch :)
+# Fastfetch Configuration
+
+Personal Fastfetch configuration focused on a clean layout, relevant system information, and good terminal readability.
+
+## About
+
+This repository contains my Fastfetch configuration, used to display system information in the terminal in a fast and organized way.
+
+The configuration focuses on:
+- Clear readability
+- Balanced layout
+- Essential system information
+- Linux compatibility
+
+## Preview
+
+> Optional: add a screenshot of Fastfetch running in your terminal.
+
+## Requirements
+
+- Linux
+- Fastfetch installed
+
+Fastfetch installation example (Arch Linux):
+
+```bash
+sudo pacman -S fastfetch
