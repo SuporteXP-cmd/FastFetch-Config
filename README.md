@@ -10,18 +10,31 @@ The configuration focuses on:
 - Clear readability
 - Balanced layout
 - Essential system information
-- Linux compatibility
-
-## Preview
-
-> Optional: add a screenshot of Fastfetch running in your terminal.
 
 ## Requirements
 
 - Linux
 - Fastfetch installed
 
-Fastfetch installation example (Arch Linux):
+# Installation Example
 
-```bash
-sudo pacman -S fastfetch
+## Arch Linux / Manjaro / EndeavourOS
+sudo pacman -S fastfetch git
+git clone https://github.com/your-username/fastfetch-config.git
+
+## Debian / Ubuntu / Linux Mint
+sudo apt update
+sudo apt install fastfetch git -y
+git clone https://github.com/your-username/fastfetch-config.git
+
+## Fedora
+sudo dnf install fastfetch git -y
+git clone https://github.com/your-username/fastfetch-config.git
+
+## openSUSE
+sudo zypper install fastfetch git
+git clone https://github.com/your-username/fastfetch-config.git
+
+## Alpine Linux
+sudo apk add fastfetch git
+git clone https://github.com/your-username/fastfetch-config.git
